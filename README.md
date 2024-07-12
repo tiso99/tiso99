@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on discord bots
 - 📫 How to reach me discord: @tiso99
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm in creation of **Zufo**
+- ⚡ Fun fact: I'm in creation of **3123 bots**
 
 <!---
 tiso99/tiso99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
