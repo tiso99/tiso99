@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on discord bots
 - 📫 How to reach me: [discord](https://discord.com/users/1251221319085854808)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm in creation of **[Jolly](https://tiso99.github.io/jollybot.github.io/).|| Domain purchase in progress...**
-- 🔍 How to find me: in [HAX|HQ|#SS](https://discord.gg/haxscripts)
+- ⚡ Fun fact: I'm in creation of Nothing
+- 🔍 How to find me: in [HAX|HQ|#SS](https://discord.gg/haxhq)
 
 <!---
 tiso99/tiso99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
