@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @tiso99
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on discord bots
-- 📫 How to reach me: [discord](https://discord.com/users/1251221319085854808)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm in creation of Nothing
-- 🔍 How to find me: in [HAX|HQ|#SS](https://discord.gg/haxhq)
-
-<!---
-tiso99/tiso99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# HI, I'm tiso, am = coder, discord bot developer, website designer & programmer and other stuff
+## To find me: [Discord Profile](https://discord.com/users/1251221319085854808)
+## Top server rn [HaxLand](https://discord.gg/e74zZDgNyv)
